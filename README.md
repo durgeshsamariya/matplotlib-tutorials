@@ -23,3 +23,5 @@ Matplotlib is a plotting library for the Python programming language. It allows 
 
 ### Example
 [![](https://github.com/themlphdstudent/matplotlib-tutorials/blob/master/figures/Scatter_Plot.png)](https://github.com/themlphdstudent/matplotlib-tutorials/blob/master/scripts/scatter_plot.py)
+
+## 
